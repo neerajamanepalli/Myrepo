@@ -3,7 +3,7 @@ package sampleJavaProgrms;
 public class GreatestNumber {
 	
 	public static void main(String[] args) {
-	int x=5,y=10,z=2;
+	int x=7,y=10,z=12;
 	{
 	
 	if(x>=y) {
