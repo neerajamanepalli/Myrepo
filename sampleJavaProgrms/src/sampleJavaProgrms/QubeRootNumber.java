@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class QubeRootNumber {
 		
 	   public static void main(String args[]){
-	      double i, precision = 0.000001;
+	      double i, precision = 0.000002;
 	      System.out.println("Enter a number ::");
 	      try (Scanner sc = new Scanner(System.in)) {
 	      int num = sc.nextInt();
