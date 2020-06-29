@@ -2,7 +2,7 @@ package sampleJavaProgrms;
 
 public class EvenNumbers {
 		
-
+/**********************************/
 		public static void main(String args[]) {
 			int n=50;
 			System.out.println("EvenNumbers from 1 to 50");
