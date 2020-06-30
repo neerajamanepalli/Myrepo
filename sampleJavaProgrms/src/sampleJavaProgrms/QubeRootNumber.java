@@ -1,3 +1,5 @@
+//Java Program
+
 package sampleJavaProgrms;
 import java.util.Scanner;
 public class QubeRootNumber {
